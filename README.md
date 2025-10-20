@@ -23,12 +23,13 @@ The goal is to use NLP techniques and machine learning to predict the complaint 
 
 Inspected dataset structure and missing values
 
-<img width="526" height="382" alt="image" src="https://github.com/user-attachments/assets/2402e69f-8187-4d28-baa4-6fdb4e904dd6" />
+<img width="937" height="308" alt="image" src="https://github.com/user-attachments/assets/134e2f15-1c17-46c0-87e3-ce9f392e555a" />
+
 
 
 Visualized class imbalance
 
-<img width="971" height="378" alt="image" src="https://github.com/user-attachments/assets/95afc0ff-c8fb-4b05-b2d2-4145cb8839fe" />
+<img width="1334" height="338" alt="image" src="https://github.com/user-attachments/assets/c7257433-8eff-461e-9c02-8482e65fb5f4" />
 
 
 Applied Stratified Down Sampling for class balance
