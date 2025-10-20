@@ -23,11 +23,15 @@ The goal is to use NLP techniques and machine learning to predict the complaint 
 
 Inspected dataset structure and missing values
 
+<img width="526" height="382" alt="image" src="https://github.com/user-attachments/assets/2402e69f-8187-4d28-baa4-6fdb4e904dd6" />
+
+
 Visualized class imbalance
 
-Applied Stratified Down Sampling for class balance
+<img width="971" height="378" alt="image" src="https://github.com/user-attachments/assets/95afc0ff-c8fb-4b05-b2d2-4145cb8839fe" />
 
-📸 Screenshot:
+
+Applied Stratified Down Sampling for class balance
 
 
 2️⃣ Text Preprocessing
@@ -40,7 +44,6 @@ Tokenization
 
 Creating a clean text_clean column
 
-📸 Screenshot:
 
 
 3️⃣ Feature Extraction
@@ -68,7 +71,8 @@ Logistic Regression	0.89	0.88
 Linear SVC	0.88	0.87
 MultinomialNB	0.84	0.83
 
-📸 Screenshot:
+<img width="670" height="569" alt="image" src="https://github.com/user-attachments/assets/a411d717-f8d6-402f-bbb0-aedfcbbe4d20" />
+
 
 
 6️⃣ Prediction
@@ -89,7 +93,8 @@ predict_category([
 → Mortgage
 
 
-📸 Screenshot:
+<img width="917" height="539" alt="image" src="https://github.com/user-attachments/assets/222abb93-8298-423d-9c79-2c2314268d47" />
+
 
 
 🧠 Concepts Used
