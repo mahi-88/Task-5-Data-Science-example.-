@@ -1,7 +1,5 @@
 Consumer Complaint Classification (NLP Multi-Class Project)
-Author: Mahivardhan
-Institution: Amrita Vishwa Vidyapeetham
-Platform: Google Colab
+
 
 📘 Project Overview
 
@@ -20,6 +18,7 @@ Mortgage
 The goal is to use NLP techniques and machine learning to predict the complaint type.
 
 ⚙️ Steps Performed
+
 1️⃣ Exploratory Data Analysis (EDA)
 
 Inspected dataset structure and missing values
