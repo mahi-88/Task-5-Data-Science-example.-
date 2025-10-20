@@ -62,7 +62,7 @@ Multinomial Naive Bayes
 
 Linear Support Vector Classifier (SVC)
 
-📸 Screenshot:
+
 
 
 5️⃣ Model Comparison
